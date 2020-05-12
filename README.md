@@ -1,0 +1,2 @@
+# nyt_best_sellers
+As a bookworm and a nerd, I decided to create a program to learn more about Python and APIs. This program takes in a start date, end date, and book type and returns a list of books ranked by the number of times they appeared on the NYT best sellers list during the specified dates. Then, I added an option for the program to open links to the relevant books in your browser. I'm working on creating a Flask app so that it may be accessed over the web but haven't quite figured that part out yet.
